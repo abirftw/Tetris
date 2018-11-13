@@ -1,0 +1,13 @@
+        "For Multiplayer Mode"
+
+        Player 1
+1. Press LEFT to go left.
+2. Press RIGHT to go right.
+3. Press DOWN to go down.
+4. Press SPACE to go rotate.
+
+        Player 2
+1. Press A to go left.
+2. Press D to go right.
+3. Press S to go down.
+4. Press W to go rotate.

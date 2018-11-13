@@ -1,0 +1,5 @@
+"For Single Player Mode"
+1. Press LEFT to go left.
+2. Press RIGHT to go right.
+3. Press DOWN to go down.
+4. Press SPACE to go rotate.
